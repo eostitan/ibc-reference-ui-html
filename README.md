@@ -1,4 +1,4 @@
-*** NOTE : This repository is no longer maintained. New repository is https://github.com/CryptoMechanics/ibc-reference-ui-html
+*** NOTE : This repository is no longer maintained. New repository is https://github.com/CryptoMechanics/ibc-reference-ui-html ***
 
 ---
 
